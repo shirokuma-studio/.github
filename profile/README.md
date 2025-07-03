@@ -29,9 +29,6 @@
 | プロジェクト | 説明 | 主要技術 |
 | :--- | :--- | :--- |
 | 🐧 **[Luna](https://github.com/shirokuma-studio/Luna)** | データベースとLuna Assistantを搭載した、高機能で使いやすい多機能Discord Botです。 | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |
-| 🚀 **（今後のプロジェクト）** | 【ここにプロジェクトの簡単な説明】 | 【ここに技術バッジ】 |
-| 🎨 **（今後のプロジェクト）** | 【ここにプロジェクトの簡単な説明】 | 【ここに技術バッジ】 |
-
 <br>
 
 ## 🛠️ 私たちが主に使う技術スタック
