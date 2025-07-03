@@ -3,51 +3,36 @@
 </h1>
 
 <p align="center">
-  最新技術で、スマートな体験を創造する。
+  最新技術で、スマートな体験を創造
 </p>
 
 <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status"></a>
     <a href="https://discord.gg/w28TXCyjpA"><img src="https://img.shields.io/badge/Join_our_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord"></a>
     <a href="#"><img src="https://img.shields.io/badge/License-Open_Source-blue.svg?style=for-the-badge" alt="License"></a>
+ 　 <a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"></a>
+　  <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
+  　<a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
+ 　 <a href="#"><img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"></a>
 </p>
 
 ---
 
-## ❄️ Shirokuma studioへようこそ！
+## 🐻‍❄️Shirokuma studio
 
-私たちは、技術への情熱を持った学生たちが主体となって運営しているGitHub Organizationです。
-スマートでUI/UXに配慮した次世代のWebサービス、Minecraft Mod、Discord Bot、そして様々なアプリケーションを、
+Shirokuma studioは、学生が主体の組織です。
+スマートでUI/UXに配慮した次世代の様々なアプリケーションを、
 主にオープンソースで開発しています。
 
-新しい技術を学び、仲間と協力しながら、世界を少しだけ面白く、そして便利にすることを目指しています。
+## 📎Main Projects
 
-## ✨ 私たちの主なプロジェクト
+私たちが主に力を入れているプロジェクトを、いくつか紹介します。
 
-私たちの活動の一部をご紹介します。コントリビューションやフィードバック、スターをいただけると、メンバーの大きな励みになります！
-
-| プロジェクト | 説明 | 主要技術 |
+| プロジェクト | 説明 | 前提 |
 | :--- | :--- | :--- |
-| 🐧 **[Luna](https://github.com/shirokuma-studio/Luna)** | データベースとLuna Assistantを搭載した、高機能で使いやすい多機能Discord Botです。 | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |
-<br>
+| 🐧 **[Luna](https://github.com/shirokuma-studio/Luna)** | データベースとLuna Assistantを搭載した、高機能で使いやすい多機能Discord Bot| ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |
 
-## 🛠️ 私たちが主に使う技術スタック
-メンバーは、以下のような技術に興味を持って開発に取り組んでいます。
-
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"></a>
-  <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"></a>
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"></a>
-</p>
-
-<br>
-
-## 🤝 私たちに参加しませんか？
+## 💰Credits
 Shirokuma studioは、スマートでUI/UXに優れた次世代のアプリケーションを開発していきます。
 私たちの活動に興味を持った方は、ぜひDiscordサーバーにご参加ください。（現在準備中です！）
 
