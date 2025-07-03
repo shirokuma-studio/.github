@@ -57,8 +57,3 @@ Shirokuma studioは、スマートでUI/UXに優れた次世代のアプリケ�
   <a href="https://github.com/shirokuma-studio/Luna/graphs/contributors"><img src="https://img.shields.io/github/contributors/shirokuma-studio/Luna?style=for-the-badge&logo=github" alt="Contributors"></a>
   <a href="https://github.com/sponsors/shirokuma-studio"><img src="https://img.shields.io/badge/Sponsor_Us-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor Us"></a>
 </p>
-
----
-<p align="center">
-  Made with ❤️ by the members of Shirokuma studio.
-</p>
