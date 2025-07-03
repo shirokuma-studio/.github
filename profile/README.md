@@ -18,7 +18,7 @@
 
 私たちは、技術への情熱を持った学生たちが主体となって運営しているGitHub Organizationです。
 スマートでUI/UXに配慮した次世代のWebサービス、Minecraft Mod、Discord Bot、そして様々なアプリケーションを、
-オープンソースで開発しています。
+主にオープンソースで開発しています。
 
 新しい技術を学び、仲間と協力しながら、世界を少しだけ面白く、そして便利にすることを目指しています。
 
@@ -48,21 +48,14 @@
 <br>
 
 ## 🤝 私たちに参加しませんか？
-Shirokuma studioは、学びたいという意欲のあるすべての学生を歓迎します！
+Shirokuma studioは、スマートでUI/UXに優れた次世代のアプリケーションを開発していきます。
 私たちの活動に興味を持った方は、ぜひDiscordサーバーにご参加ください。（現在準備中です！）
 
-<p>
-  <a href="https://discord.gg/w28TXCyjpA">
-    <img src="https://invidget.switchblade.xyz/YOUR_SERVER_ID" alt="Discord Widget">
-  </a>
-</p>
-
-## 🌟 GitHub統計情報
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shirokuma-studio&show_icons=true&theme=transparent&hide_border=true&title_color=00aeff&icon_color=00aeff" alt="Shirokuma studio's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirokuma-studio&layout=compact&theme=transparent&hide_border=true&title_color=00aeff&langs_count=8" alt="Shirokuma studio's Top Languages" />
+  <a href="https://github.com/shirokuma-studio/Luna"><img src="https://img.shields.io/badge/Project-Luna-blueviolet?style=for-the-badge&logo=github" alt="Project Luna"></a>
+  <a href="https://github.com/shirokuma-studio/Luna/commits/main"><img src="https://img.shields.io/github/last-commit/shirokuma-studio/Luna?style=for-the-badge&logo=git&logoColor=white" alt="Last Commit"></a>
+  <a href="https://github.com/shirokuma-studio/Luna/graphs/contributors"><img src="https://img.shields.io/github/contributors/shirokuma-studio/Luna?style=for-the-badge&logo=github" alt="Contributors"></a>
+  <a href="https://github.com/sponsors/shirokuma-studio"><img src="https://img.shields.io/badge/Sponsor_Us-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor Us"></a>
 </p>
 
 ---
