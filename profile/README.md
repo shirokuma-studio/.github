@@ -20,17 +20,9 @@
 
 ## 🐻‍❄️Shirokuma studio
 
-Shirokuma studioは、学生が主体の組織です。
+Shirokuma studioは、
 スマートでUI/UXに配慮した次世代の様々なアプリケーションを、
 主にオープンソースで開発しています。
-
-## 📎Main Projects
-
-私たちが主に力を入れているプロジェクトを、いくつか紹介します。
-
-| プロジェクト | 説明 | 前提 |
-| :--- | :--- | :--- |
-| 🐧 **[Luna](https://github.com/shirokuma-studio/Luna)** | データベースとLuna Assistantを搭載した、高機能で使いやすい多機能Discord Bot| ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |
 
 ## 💰Credits
 Shirokuma studioは、スマートでUI/UXに優れた次世代のアプリケーションを開発していきます。
