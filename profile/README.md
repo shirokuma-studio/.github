@@ -6,16 +6,6 @@
   最新技術で、スマートな体験を創造
 </p>
 
-<p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status"></a>
-    <a href="https://discord.gg/w28TXCyjpA"><img src="https://img.shields.io/badge/Join_our_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord"></a>
-    <a href="#"><img src="https://img.shields.io/badge/License-Open_Source-blue.svg?style=for-the-badge" alt="License"></a>
- 　 <a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"></a>
-　  <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
-  　<a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
- 　 <a href="#"><img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"></a>
-</p>
-
 ---
 
 ## 🐻‍❄️Shirokuma studio
